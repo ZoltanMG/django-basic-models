@@ -1,0 +1,1 @@
+proyecto basico de django con django rest framework modelos
